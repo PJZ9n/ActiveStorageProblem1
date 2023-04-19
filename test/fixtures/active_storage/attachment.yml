@@ -1,0 +1,4 @@
+avatar_attachment_one:
+  name: avatar
+  record: one (User)
+  blob: avatar_blob_one

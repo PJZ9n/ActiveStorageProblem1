@@ -46,3 +46,4 @@ group :development do
   # gem "spring"
 end
 
+gem "active_storage_validations", "~> 1.0"
